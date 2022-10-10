@@ -2,7 +2,7 @@
 A site in development for creation of focused coding hub where you can get everything you need in coding session.
 
 ## Vision 😃:
-A Platform which is distraction free, and will help you focus more on coding than surfing the internet. Best thr ones who lose there focus subsyentialy
+A Platform which is distraction free, and will help you focus more on coding than surfing the internet. Best for ones who lose there focus quickly
 
 
 ## Follow & Connect with us 📲:
