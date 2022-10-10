@@ -26,5 +26,5 @@ A Platform which is distraction free, and will help you focus more on coding tha
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 
 ## Contributions
- 😃:People interested to work with us can also [Email me](contact.ttvillage@gmail.com) here and we can discuss what you you are capable of 🤟:.
+ 😃People interested to work with us can also [Email me](contact.ttvillage@gmail.com) here and we can discuss what you you are capable of 🤟.
  Also Don't Forget to Follow us
