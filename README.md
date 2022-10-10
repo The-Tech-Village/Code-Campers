@@ -2,7 +2,8 @@
 A site in development for creation of focused coding hub where you can get everything you need in coding session.
 
 ## Vision 😃:
-A Platform which is distraction free, and will help you focus more on coding than surfing the internet.
+A Platform which is distraction free, and will help you focus more on coding than surfing the internet. Best thr ones who lose there focus subsyentialy
+
 
 ## Follow & Connect with us 📲:
    <a href="https://www.youtube.com/c/CommunityClassroom">
@@ -25,4 +26,5 @@ A Platform which is distraction free, and will help you focus more on coding tha
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 
 ## Contributions
- 😃:People interested to work with us can also [Email me](contact.ttvillage@gmail.com) here and we can discuss what you you are capable of 🤟:.
+ 😃People interested to work with us can also [Email me](contact.ttvillage@gmail.com) here and we can discuss what you you are capable of 🤟.
+ Also Don't Forget to Follow us
